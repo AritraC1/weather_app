@@ -17,6 +17,7 @@ class _LocationSearchBarState extends State<LocationSearchBar> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      margin: const EdgeInsets.symmetric(horizontal: 15),
       height: 60,
       width: double.infinity,
       decoration: BoxDecoration(

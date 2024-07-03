@@ -24,7 +24,7 @@ class _LocationSearchBarState extends State<LocationSearchBar> {
           borderRadius: BorderRadius.circular(40),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.25),
+              color: Colors.black.withOpacity(0.2),
               offset: const Offset(5, 5),
               blurRadius: 5,
               spreadRadius: 1,
